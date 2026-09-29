@@ -59,3 +59,5 @@ so there is nothing to download by hand.
 
 Fabrizio Pietrobono — MSc Computer Science & AI, Sapienza Università di Roma.
 Individual project.
+
+[LinkedIn](https://www.linkedin.com/in/fabriziopietrobono)
