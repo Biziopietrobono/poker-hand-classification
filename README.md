@@ -4,6 +4,8 @@ A comparative study of four supervised classifiers on the UCI Poker Hand dataset
 (1,025,010 hands, 10 features, 10 classes). Individual project for the Machine
 Learning course at Sapienza, November 2025.
 
+The full written report is in [report/Poker_Hand_Classification_Report.pdf](report/Poker_Hand_Classification_Report.pdf).
+
 ## Results (test set)
 
 | Model | Accuracy | Precision | Recall | F1 (weighted) | ROC-AUC (micro) |
@@ -42,6 +44,7 @@ Feature importance confirms that card ranks (C1–C5) matter more than suits (S1
 notebooks/01_data_exploration.ipynb   dataset loading and class distribution
 notebooks/02_model_comparison.ipynb   preprocessing, tuning, training, evaluation
 figures/                              confusion matrices, feature importance, learning and ROC curves
+report/                               full written report (PDF)
 ```
 
 ## Running it
